@@ -2,9 +2,6 @@
 
 **Air-Canvas-Interactive-Gesture-Brush** is an interactive application that enables users to draw on a virtual canvas using hand gestures detected via webcam. No physical contact with any device is needed—just wave your hand in the air and create digital art!
 
-## Demo
-
-![Air Canvas Demo](demo.gif)
 
 ## Features
 
